@@ -1,4 +1,4 @@
-package co.potatoproject.dt2w.rosemary;
+package org.lineageos.dt2w.rosemary;
 
 import android.app.Service;
 import android.content.ContentResolver;
