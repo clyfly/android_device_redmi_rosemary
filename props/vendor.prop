@@ -419,6 +419,7 @@ persist.log.tag.PQ_DS=I
 persist.log.tag.CarrierExpressServiceImpl=I
 persist.log.tag.CarrierExpressServiceImplExt=I
 persist.log.tag.PhoneConfigurationSettings=I
+persist.log.tag.gralloc=S
 ro.vendor.mtk_data_config=1
 vendor.mtk.vdec.waitkeyframeforplay=9
 ro.vendor.mtk_embms_support=1
