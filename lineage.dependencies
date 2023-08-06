@@ -1,27 +1,32 @@
 [
   {
-    "repository": "windowz414/android_kernel_redmi_rosemary",
+    "repository": "android_kernel_redmi_rosemary",
     "target_path": "kernel/redmi/rosemary",
-    "branch": "android-12-stable"
-  },
-  {
-    "repository": "Woomymy/android_vendor_redmi_rosemary",
-    "target_path": "vendor/redmi/rosemary",
     "branch": "lineage-18.1"
   },
   {
-    "repository": "PixelExperience/vendor_mediatek-opensource",
+    "repository": "android_vendor_redmi_rosemary",
+    "target_path": "vendor/redmi/rosemary",
+    "branch": "eleven"
+  },
+  {
+    "repository": "vendor_mediatek-opensource",
     "target_path": "vendor/mediatek/opensource",
     "branch": "eleven"
   },
   {
-    "repository": "PixelExperience/vendor_mediatek_interfaces",
+    "repository": "vendor_mediatek_interfaces",
     "target_path": "vendor/mediatek/interfaces",
     "branch": "eleven"
   },
   {
-    "repository": "PotatoProject/device_mediatek_sepolicy",
+    "repository": "device_mediatek_sepolicy",
     "target_path": "device/mediatek/sepolicy",
-    "branch": "dumaloo-release"
+    "branch": "11.0"
+  },
+  {
+    "repository": "android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
   }
 ]
