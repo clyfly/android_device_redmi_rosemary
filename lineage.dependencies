@@ -1,8 +1,8 @@
 [
   {
-    "repository": "android_kernel_redmi_rosemary",
-    "target_path": "kernel/redmi/rosemary",
-    "branch": "lineage-18.1"
+    "repository": "android_kernel_xiaomi_mt6785",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch": "eleven"
   },
   {
     "repository": "android_vendor_redmi_rosemary",
